@@ -80,7 +80,7 @@ Absolutely! Many users use it to assign teams or pick draft orders.
 
 ### Is PickWheel free?
 
-Yes — no sign-ups, no paywalls, and no ads while spinning.
+Yes — no sign-ups, no paywalls.
 
 ## Try the MLB Random Team Picker Now
 

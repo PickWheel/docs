@@ -81,7 +81,7 @@ Explore more football league wheels:
 - ⚡ Fast and mobile-optimized
 - 🎨 Fully customizable
 - 💾 Save your wheels
-- 🆓 Free to use — no ads while spinning
+- 🆓 Free to use
 
 ## Frequently Asked Questions
 

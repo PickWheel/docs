@@ -88,7 +88,7 @@ Of course! Teachers often use it as a geography activity — it's fun, visual, a
 
 ### Is it free to use?
 
-Yes. PickWheel is 100% free with no ads or required registration.
+Yes. PickWheel is 100% free.
 
 ## Try the Random Country Generator Now!
 

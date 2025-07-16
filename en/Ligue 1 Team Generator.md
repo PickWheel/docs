@@ -72,7 +72,7 @@ Want to explore more leagues or sports?
 
 - 🌀 Smooth and responsive experience
 - 🎨 Fully customizable wheel settings
-- 🆓 Completely free — no ads while spinning
+- 🆓 Completely free while spinning
 - 💾 Save and share your wheel easily
 
 ## Frequently Asked Questions
